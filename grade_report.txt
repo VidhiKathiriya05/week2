@@ -1,0 +1,5 @@
+STUDENT GRADE REPORT
+==============================
+Name: vidhi | Avg: 46.00 | Grade: F
+Name: rudra | Avg: 44.67 | Grade: F
+Name: heena | Avg: 55.33 | Grade: F
